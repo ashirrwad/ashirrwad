@@ -5,8 +5,8 @@
 
 
 
-- 🔭 I’m currently working on a Semantics Analyser
-- 🌱 I’m currently learning React, REST APIs 
-- 👯 I’m looking to collaborate on Data Analytics projects
-- 🤔 I’m looking for help with Deep Learning
-- 💬 Hmu on Socials to communicate
+- 🔭 I’m currently working on a playground for Fortran-lang under GSoC'22.
+- 🌱 I’m currently learning React and trying to figure out how cloud works. 
+- 👯 I’m looking to collaborate on anything that involves Web Apps.
+- 🤔 I’m looking for help with Devops.
+- 💬 You can find me using the handle 'ashirrwad' on almost every platform.
