@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on a playground for Fortran-lang under GSoC'22.
+- 🔭 I worked with Fortran-lang to build the [playground](https://play.fortran-lang.org/)
 - 🌱 I’m currently learning React and trying to figure out how cloud works. 
 - 👯 I’m looking to collaborate on anything that involves Web Apps.
 - 🤔 I’m looking for help with Devops.
